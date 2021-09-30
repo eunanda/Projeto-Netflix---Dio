@@ -1,4 +1,4 @@
-<h2 align="center">Recriando a Interface do Netflix - #DIOFLIX</h2>
+<h2 align="center">Recriando a Interface do Netflix 
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
